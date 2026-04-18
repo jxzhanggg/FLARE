@@ -1,13 +1,13 @@
 name: av2vec
 channels:
-  - https://mirrors.ayers.anonymous_company.cn/anaconda/cloud/pytorch
-  - https://mirrors.ayers.anonymous_company.cn/anaconda/cloud/rapidsai
-  - https://mirrors.ayers.anonymous_company.cn/anaconda/cloud/menpo
-  - https://mirrors.ayers.anonymous_company.cn/anaconda/cloud/bioconda
-  - https://mirrors.ayers.anonymous_company.cn/anaconda/cloud/conda-forge
-  - https://mirrors.ayers.anonymous_company.cn/anaconda/cloud/pytorch3d
-  - https://mirrors.ayers.anonymous_company.cn/anaconda/pkgs/main
-  - https://mirrors.ayers.anonymous_company.cn/anaconda/pkgs/free
+  - https://mirrors.ayers.anonymous_org.cn/anaconda/cloud/pytorch
+  - https://mirrors.ayers.anonymous_org.cn/anaconda/cloud/rapidsai
+  - https://mirrors.ayers.anonymous_org.cn/anaconda/cloud/menpo
+  - https://mirrors.ayers.anonymous_org.cn/anaconda/cloud/bioconda
+  - https://mirrors.ayers.anonymous_org.cn/anaconda/cloud/conda-forge
+  - https://mirrors.ayers.anonymous_org.cn/anaconda/cloud/pytorch3d
+  - https://mirrors.ayers.anonymous_org.cn/anaconda/pkgs/main
+  - https://mirrors.ayers.anonymous_org.cn/anaconda/pkgs/free
   - conda-forge
 dependencies:
   - _libgcc_mutex=0.1=conda_forge
